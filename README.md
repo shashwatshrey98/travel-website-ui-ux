@@ -42,7 +42,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone [project_link](https://github.com/shashwatshrey98/travel-website-ui-ux.git)
+git clone https://github.com/shashwatshrey98/travel-website-ui-ux.git
 cd travel-website-ui-ux
 ```
 
